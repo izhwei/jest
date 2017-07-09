@@ -55,7 +55,7 @@ exports[`renders as an anchor when no page is set 1`] = `
 </a>
 `;
 
-exports[`renders correctly 1`] = `
+exports[`renders correctly2 1`] = `
 <a
   className="normal"
   href="http://www.facebook.com"

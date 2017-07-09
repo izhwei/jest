@@ -7,7 +7,7 @@ import React from 'react';
 import Link from '../Link.react';
 import renderer from 'react-test-renderer';
 
-it('renders correctly', () => {
+it('renders correctly2', () => {
   const tree = renderer
     .create(<Link page="http://www.facebook.com">Facebook</Link>)
     .toJSON();
